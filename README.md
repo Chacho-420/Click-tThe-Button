@@ -20,3 +20,8 @@ An "About Me" section that provides information about the game and its creator.
 
 
 This game serves as a great practice project for beginners in frontend web development, helping them understand DOM manipulation, event handling, and CSS styling. Players can enjoy the challenge while improving their reaction time!
+
+
+
+Check Out Live:-
+                https://chacho-420.github.io/Click-tThe-Button/
